@@ -1,0 +1,21 @@
+activity_id,name,min_grade,max_grade,max_capacity,sessions,available_sessions
+1,Art,3,5,12,2,"Thursday AM,Tuesday AM,Tuesday PM,Thursday PM,Friday PM"
+2,Science,4,6,5,2,"Monday AM,Thursday AM"
+3,Math Games,1,6,9,4,"Friday AM,Thursday PM,Tuesday AM,Wednesday AM"
+4,Robotics,3,4,9,1,Monday PM
+5,Music,4,8,11,4,"Monday PM,Monday AM,Tuesday AM,Thursday PM"
+6,Sports,3,5,12,2,"Thursday PM,Monday PM,Thursday AM,Wednesday AM,Wednesday PM"
+7,Painting,3,4,6,2,"Thursday PM,Wednesday AM,Tuesday AM,Wednesday PM"
+8,Cooking,2,4,6,2,"Thursday AM,Tuesday PM,Wednesday AM,Monday PM"
+9,Reading,4,5,7,3,"Wednesday AM,Tuesday PM,Friday PM"
+10,Drama,4,4,13,2,"Wednesday PM,Thursday PM,Thursday AM,Friday AM"
+11,Chess,4,5,12,3,"Tuesday AM,Friday AM"
+12,Football,2,8,13,2,"Thursday PM,Tuesday AM"
+13,Rock Climbing,2,4,14,2,"Thursday PM,Thursday AM,Wednesday AM"
+14,Dance,3,6,8,3,"Friday AM,Thursday AM,Monday AM"
+15,Photography,2,6,6,2,"Friday PM,Thursday AM,Monday PM,Friday AM"
+16,Coding,1,8,7,1,Friday PM
+17,Gardening,1,4,5,1,Tuesday PM
+18,Writing,1,6,7,1,"Wednesday PM,Monday AM,Thursday AM"
+19,Astronomy,3,6,14,4,"Friday AM,Friday PM"
+20,Yoga,4,6,5,1,"Friday PM,Wednesday PM,Monday AM,Friday AM,Thursday PM"
