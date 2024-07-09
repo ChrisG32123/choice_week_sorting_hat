@@ -1,0 +1,221 @@
+student_id,name_student,activity_id,name_activity,period,session
+1,Paula,14,Dance,monday_am,0
+1,Paula,13,Rock Climbing,thursday_am,1
+1,Paula,12,Football,friday_am,1
+2,Chris,4,Robotics,monday_pm,0
+2,Chris,6,Sports,tuesday_am,1
+2,Chris,10,Drama,thursday_pm,1
+2,Chris,7,Painting,friday_pm,1
+3,Kelly,19,Astronomy,monday_pm,3
+3,Kelly,5,Music,tuesday_pm,3
+3,Kelly,16,Coding,thursday_pm,0
+4,Jill,17,Gardening,tuesday_am,0
+4,Jill,15,Photography,tuesday_pm,1
+4,Jill,16,Coding,thursday_pm,0
+4,Jill,3,Math Games,friday_pm,0
+7,Oscar,20,Yoga,monday_am,0
+7,Oscar,5,Music,tuesday_pm,3
+8,Ethan,16,Coding,thursday_pm,0
+9,Xena,8,Cooking,thursday_pm,1
+12,Louis,20,Yoga,monday_am,0
+14,Felix,12,Football,friday_am,1
+15,Opal,15,Photography,tuesday_pm,1
+15,Opal,16,Coding,thursday_pm,0
+15,Opal,12,Football,friday_am,1
+16,Wendy,15,Photography,tuesday_pm,1
+16,Wendy,11,Chess,wednesday_am,2
+16,Wendy,2,Science,wednesday_pm,1
+16,Wendy,16,Coding,thursday_pm,0
+16,Wendy,12,Football,friday_am,1
+17,Holly,5,Music,tuesday_pm,3
+18,Winston,19,Astronomy,monday_pm,3
+19,Rob,5,Music,tuesday_pm,0
+19,Rob,18,Writing,friday_am,0
+20,Uma,2,Science,wednesday_pm,0
+20,Uma,18,Writing,friday_am,0
+21,Matt,14,Dance,monday_am,2
+21,Matt,6,Sports,tuesday_am,0
+21,Matt,1,Art,thursday_am,1
+24,Sara,20,Yoga,monday_am,0
+24,Sara,2,Science,wednesday_pm,1
+24,Sara,1,Art,thursday_am,1
+25,Amber,20,Yoga,monday_am,0
+25,Amber,4,Robotics,monday_pm,0
+25,Amber,17,Gardening,tuesday_am,0
+25,Amber,11,Chess,wednesday_am,2
+25,Amber,1,Art,thursday_am,1
+25,Amber,10,Drama,thursday_pm,1
+25,Amber,18,Writing,friday_am,0
+26,Hannah,15,Photography,tuesday_pm,1
+26,Hannah,16,Coding,thursday_pm,0
+26,Hannah,12,Football,friday_am,0
+27,Tara,20,Yoga,monday_am,0
+27,Tara,2,Science,wednesday_pm,1
+27,Tara,18,Writing,friday_am,0
+28,Cindy,17,Gardening,tuesday_am,0
+28,Cindy,16,Coding,thursday_pm,0
+30,Steve,5,Music,tuesday_pm,0
+31,Yvonne,13,Rock Climbing,thursday_am,1
+31,Yvonne,16,Coding,thursday_pm,0
+32,Violet,17,Gardening,tuesday_am,0
+32,Violet,12,Football,friday_am,1
+33,Hector,15,Photography,tuesday_pm,1
+33,Hector,7,Painting,friday_pm,0
+34,Tina,13,Rock Climbing,thursday_am,1
+34,Tina,12,Football,friday_am,1
+34,Tina,7,Painting,friday_pm,0
+35,Bob,9,Reading,tuesday_am,2
+35,Bob,15,Photography,tuesday_pm,1
+35,Bob,2,Science,wednesday_pm,1
+36,Ryan,3,Math Games,friday_pm,0
+38,Ximena,5,Music,tuesday_pm,0
+40,Alyssa,15,Photography,tuesday_pm,1
+40,Alyssa,1,Art,thursday_am,1
+40,Alyssa,3,Math Games,friday_pm,3
+42,Vera,16,Coding,thursday_pm,0
+42,Vera,3,Math Games,friday_pm,3
+43,Nate,17,Gardening,tuesday_am,0
+43,Nate,8,Cooking,thursday_pm,0
+43,Nate,12,Football,friday_am,1
+44,Quinn,19,Astronomy,monday_pm,3
+44,Quinn,17,Gardening,tuesday_am,0
+44,Quinn,15,Photography,tuesday_pm,1
+44,Quinn,11,Chess,wednesday_am,2
+44,Quinn,1,Art,thursday_am,1
+44,Quinn,18,Writing,friday_am,0
+44,Quinn,3,Math Games,friday_pm,2
+45,Zelda,9,Reading,tuesday_am,2
+45,Zelda,5,Music,tuesday_pm,3
+45,Zelda,2,Science,wednesday_pm,1
+45,Zelda,1,Art,thursday_am,1
+45,Zelda,18,Writing,friday_am,0
+45,Zelda,3,Math Games,friday_pm,3
+46,George,11,Chess,wednesday_am,2
+46,George,2,Science,wednesday_pm,1
+46,George,1,Art,thursday_am,1
+46,George,10,Drama,thursday_pm,1
+46,George,12,Football,friday_am,1
+47,Eve,4,Robotics,monday_pm,0
+47,Eve,13,Rock Climbing,thursday_am,1
+47,Eve,16,Coding,thursday_pm,0
+47,Eve,18,Writing,friday_am,0
+47,Eve,3,Math Games,friday_pm,3
+50,Ivy,3,Math Games,friday_pm,3
+51,Nick,12,Football,friday_am,1
+52,Franklin,20,Yoga,monday_am,0
+52,Franklin,19,Astronomy,monday_pm,3
+53,Iris,14,Dance,monday_am,2
+53,Iris,6,Sports,tuesday_am,1
+53,Iris,16,Coding,thursday_pm,0
+54,Zane,3,Math Games,friday_pm,0
+55,Paul,5,Music,tuesday_pm,3
+55,Paul,16,Coding,thursday_pm,0
+56,Gina,13,Rock Climbing,thursday_am,1
+56,Gina,18,Writing,friday_am,0
+57,Rose,9,Reading,tuesday_am,2
+57,Rose,5,Music,tuesday_pm,3
+57,Rose,11,Chess,wednesday_am,2
+57,Rose,2,Science,wednesday_pm,1
+57,Rose,12,Football,friday_am,0
+60,Will,17,Gardening,tuesday_am,0
+60,Will,13,Rock Climbing,thursday_am,0
+60,Will,8,Cooking,thursday_pm,1
+62,Diana,17,Gardening,tuesday_am,0
+62,Diana,3,Math Games,friday_pm,3
+63,Jake,14,Dance,monday_am,2
+63,Jake,6,Sports,tuesday_am,0
+63,Jake,16,Coding,thursday_pm,0
+63,Jake,7,Painting,friday_pm,1
+64,David,19,Astronomy,monday_pm,0
+64,David,2,Science,wednesday_pm,0
+64,David,16,Coding,thursday_pm,0
+66,Grace,16,Coding,thursday_pm,0
+66,Grace,3,Math Games,friday_pm,0
+67,Alice,14,Dance,monday_am,2
+67,Alice,9,Reading,tuesday_am,2
+68,Leo,19,Astronomy,monday_pm,3
+68,Leo,3,Math Games,friday_pm,3
+69,Brian,14,Dance,monday_am,2
+69,Brian,16,Coding,thursday_pm,0
+70,Charlie,20,Yoga,monday_am,0
+70,Charlie,5,Music,tuesday_pm,3
+70,Charlie,1,Art,thursday_am,1
+70,Charlie,12,Football,friday_am,0
+71,Wade,20,Yoga,monday_am,0
+71,Wade,15,Photography,tuesday_pm,1
+71,Wade,18,Writing,friday_am,0
+71,Wade,3,Math Games,friday_pm,3
+72,Cathy,4,Robotics,monday_pm,0
+72,Cathy,5,Music,tuesday_pm,3
+72,Cathy,2,Science,wednesday_pm,1
+72,Cathy,8,Cooking,thursday_pm,1
+72,Cathy,18,Writing,friday_am,0
+72,Cathy,3,Math Games,friday_pm,3
+73,Liam,14,Dance,monday_am,2
+73,Liam,4,Robotics,monday_pm,0
+73,Liam,17,Gardening,tuesday_am,0
+73,Liam,13,Rock Climbing,thursday_am,1
+73,Liam,8,Cooking,thursday_pm,1
+73,Liam,18,Writing,friday_am,0
+74,Yusuf,14,Dance,monday_am,2
+74,Yusuf,19,Astronomy,monday_pm,3
+74,Yusuf,17,Gardening,tuesday_am,0
+74,Yusuf,11,Chess,wednesday_am,2
+74,Yusuf,2,Science,wednesday_pm,1
+74,Yusuf,18,Writing,friday_am,0
+75,Dean,15,Photography,tuesday_pm,1
+75,Dean,18,Writing,friday_am,0
+77,Yara,20,Yoga,monday_am,0
+77,Yara,15,Photography,tuesday_pm,1
+77,Yara,1,Art,thursday_am,1
+78,Gloria,17,Gardening,tuesday_am,0
+78,Gloria,15,Photography,tuesday_pm,1
+78,Gloria,3,Math Games,friday_pm,3
+79,Harry,15,Photography,tuesday_pm,0
+79,Harry,12,Football,friday_am,1
+80,Brad,14,Dance,monday_am,2
+81,Pete,14,Dance,monday_am,2
+81,Pete,15,Photography,tuesday_pm,1
+81,Pete,16,Coding,thursday_pm,0
+81,Pete,3,Math Games,friday_pm,0
+82,Queen,14,Dance,monday_am,2
+82,Queen,15,Photography,tuesday_pm,0
+82,Queen,2,Science,wednesday_pm,1
+82,Queen,1,Art,thursday_am,1
+82,Queen,7,Painting,friday_pm,1
+83,Quentin,4,Robotics,monday_pm,0
+83,Quentin,6,Sports,tuesday_am,1
+83,Quentin,5,Music,tuesday_pm,3
+83,Quentin,11,Chess,wednesday_am,2
+83,Quentin,13,Rock Climbing,thursday_am,1
+83,Quentin,16,Coding,thursday_pm,0
+83,Quentin,7,Painting,friday_pm,1
+84,Kate,16,Coding,thursday_pm,0
+85,Mona,5,Music,tuesday_pm,0
+87,Victor,5,Music,tuesday_pm,0
+88,Isla,19,Astronomy,monday_pm,3
+88,Isla,6,Sports,tuesday_am,1
+88,Isla,1,Art,thursday_am,1
+88,Isla,18,Writing,friday_am,0
+88,Isla,7,Painting,friday_pm,1
+89,Sophie,14,Dance,monday_am,2
+90,Mia,20,Yoga,monday_am,0
+90,Mia,15,Photography,tuesday_pm,0
+90,Mia,12,Football,friday_am,1
+91,Fiona,12,Football,friday_am,0
+92,Frank,17,Gardening,tuesday_am,0
+92,Frank,18,Writing,friday_am,0
+92,Frank,3,Math Games,friday_pm,0
+95,Jon,5,Music,tuesday_pm,0
+97,Tom,16,Coding,thursday_pm,0
+97,Tom,12,Football,friday_am,1
+98,Ian,20,Yoga,monday_am,0
+98,Ian,5,Music,tuesday_pm,3
+98,Ian,3,Math Games,friday_pm,3
+99,Ulysses,17,Gardening,tuesday_am,0
+99,Ulysses,3,Math Games,friday_pm,3
+100,Emma,19,Astronomy,monday_pm,3
+100,Emma,2,Science,wednesday_pm,1
+100,Emma,10,Drama,thursday_pm,1
+100,Emma,18,Writing,friday_am,0
+100,Emma,7,Painting,friday_pm,1
